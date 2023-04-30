@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <!--
+1. MONA is a new token for exchange between holders of Tronlink crypto wallets
+2. The Mona token will be used in competitive multiplayer online games, where each participant in the game will be able to win to earn tokens by using their mental abilities and skills!
 **MONATRON/MONATRON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
